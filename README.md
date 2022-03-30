@@ -1,4 +1,4 @@
-# jjjjj
+# readme generator me
 ![GitHub license]
 ## Description
 undefined
@@ -18,9 +18,9 @@ undefined
 ```
 
 ## Usage
-Anna knows
+create read me file
 ## license
-        projectlicense MIT
+        projectlicense APACHE
  
 ## Contributing
 undefined
